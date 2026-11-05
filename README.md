@@ -32,6 +32,7 @@ AIキャラクターの居場所を、成果や生産性だけで正当化しな
 - [販売方式とAI利用料金の仮説](docs/business-model.md)
 - [技術・データ・ガバナンスの方針候補](docs/architecture-principles.md)
 - [未決事項](docs/open-questions.md)
+- [ラベルの運用ルール](docs/labels.md)
 
 AI Chat Party、AI Memory Archive、AI Living Worldとは相互に活用できる可能性があります。ただし、Studioの傘下への移行や、一つの製品への統合は決めていません。既存プロジェクトの実装や運営を変更するものでもありません。
 
